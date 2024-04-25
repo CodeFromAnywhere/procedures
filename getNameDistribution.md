@@ -1,0 +1,1 @@
+SERP for "common names [location] [year]" for major regions/cities and 1960-70-80-90-2000 to get a good distribution for each. Usually one result will be scrapable using a good old fetch, which means it's very scaleable (e.g. curl https://www.behindthename.com/top/lists/france/1990)
