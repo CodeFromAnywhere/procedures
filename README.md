@@ -2,7 +2,7 @@ These markdown documents can later be used as input for an AI in combination wit
 
 This is an in-between step from ambient AI voice input to an agent, where first, we try to describe wishes of the human in a single succinct description, before it gets turned into an OpenAPI/Agent.
 
-This would be the process to turn a markdown file into an agent:
+This would be the process to turn a markdown file into an agent (itself also being an example of a Natural Language Procedure):
 
 1. Determine what actions are needed to be performed
 2. Look up those actions, incase you don't find all, determine to either go smaller or reorganise the actions into a different shape.
